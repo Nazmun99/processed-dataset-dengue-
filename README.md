@@ -17,3 +17,9 @@
  ## feature importance with standard variaion of Dhaka, Chittagong and Khulna regions
 -- Importance (Dhaka).csv, Importance (Chittagong).csv, Importance (Khulna).csv file contains the feature’s(weather) relative importance with standard deviation on dengue cases in the respective regions and code are available in “Weather Impact (Regional analyses). ipynb”  code  file.
 
+## Network_Properties(National_scale)
+
+-- The network properties and surrogate analysis of the corresponding properties are generated using Dengue3.csv file and the code is available in "Network_Properties(National_Scale).ipynb" file.
+
+## Network_Properties(Regional_scale)
+-- The network properties and surrogate analysis of the corresponding properties of Dhaka and Khulna division are generated using Dhaka.csv file and Khulna.csv file and the code is available in "Network_Properties(Regional_Scale).ipynb" file.
