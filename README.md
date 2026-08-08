@@ -23,3 +23,7 @@
 
 ## Network_Properties(Regional_scale)
 -- The network properties and surrogate analysis of the corresponding properties of Dhaka and Khulna division are generated using Dhaka.csv file and Khulna.csv file and the code is available in "Network_Properties(Regional_Scale).ipynb" file.
+
+
+## Visibolity graph
+-- The code is available at "Visibility_Graph.ipynb" file.
